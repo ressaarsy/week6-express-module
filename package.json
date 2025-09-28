@@ -1,0 +1,23 @@
+{
+  "name": "week6-express-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ressaarsy/week6-express-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ressaarsy/week6-express-module/issues"
+  },
+  "homepage": "https://github.com/ressaarsy/week6-express-module#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
